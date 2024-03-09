@@ -20,7 +20,7 @@ namespace vmi
                     Console.WriteLine("The input type is incorrect. Please enter a valid type of number!");
                     continue;
                 }
-                if(choice < 0 || choice > 10)
+                if(choice < 0 || choice > 34)
                 {
                     Console.WriteLine("The input value is incorrect. Please enter a valid number between 0 to 10!");
                     continue;
