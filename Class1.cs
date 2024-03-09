@@ -10,6 +10,7 @@ namespace vmi
     {
         static void Main(string[] args)
         {
+            bool dalmaIttJart = true;
             bool exit = false;
 
             while(!exit)
